@@ -48,15 +48,7 @@ const createMeal = (meal) => {
 
 
 
-//maybe?
-{/* <div class="video">
-                <iframe width="420" height="315"
-                    src="https://www.youtube.com/embed/${meal.strYoutube.slice(-11)}">
-                </iframe>
-</div> */}
-
-//respond with a recipe card frame around ingredients and instructions, not picture
-//change .que to <h2>${meal.strMeal}</h2>
 // add print button
 // add accessibility features? review inherited 
-// SOCIAL PANEL JS
+// add affiliate links
+// add footer
